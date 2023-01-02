@@ -1,0 +1,12 @@
+C:\Users\maxem\OneDrive\Desktop\AC_Hack\AC_Hack\bin\Debug\AC_Hack.exe.config
+C:\Users\maxem\OneDrive\Desktop\AC_Hack\AC_Hack\bin\Debug\AC_Hack.exe
+C:\Users\maxem\OneDrive\Desktop\AC_Hack\AC_Hack\bin\Debug\AC_Hack.pdb
+C:\Users\maxem\OneDrive\Desktop\AC_Hack\AC_Hack\bin\Debug\VAMemory.dll
+C:\Users\maxem\OneDrive\Desktop\AC_Hack\AC_Hack\obj\Debug\AC_Hack.csproj.AssemblyReference.cache
+C:\Users\maxem\OneDrive\Desktop\AC_Hack\AC_Hack\obj\Debug\AC_Hack.csproj.SuggestedBindingRedirects.cache
+C:\Users\maxem\OneDrive\Desktop\AC_Hack\AC_Hack\obj\Debug\AC_Hack.csproj.CoreCompileInputs.cache
+C:\Users\maxem\OneDrive\Desktop\AC_Hack\AC_Hack\obj\Debug\AC_Hack.csproj.CopyComplete
+C:\Users\maxem\OneDrive\Desktop\AC_Hack\AC_Hack\obj\Debug\AC_Hack.exe
+C:\Users\maxem\OneDrive\Desktop\AC_Hack\AC_Hack\obj\Debug\AC_Hack.pdb
+C:\Users\maxem\OneDrive\Desktop\AC_Hack\AC_Hack\bin\Debug\Memory.dll
+C:\Users\maxem\OneDrive\Desktop\AC_Hack\AC_Hack\bin\Debug\Memory.xml
